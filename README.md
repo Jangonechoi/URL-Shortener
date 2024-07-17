@@ -56,6 +56,8 @@ CREATE USER 'url_user'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON url_shortener_db.* TO 'url_user'@'localhost';
 FLUSH PRIVILEGES;
 ```
+(url_user와 password는 내 정보를 입력하였다)  
+
 환경 변수 설정
 
 ● .env 파일을 프로젝트 루트에 생성 후 설정:  
