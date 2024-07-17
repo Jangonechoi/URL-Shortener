@@ -2,7 +2,11 @@
 
 ## Description
 
-This project is a URL shortening service built with FastAPI. It allows you to shorten long URLs and redirect them using a short URL.
+URL shortening service built with FastAPI
+
+## Mysql의 선택이유
+
+가볍고 안정적이며 빠른 처리속도, 확장성또한 높다
 
 ## Installation
 
