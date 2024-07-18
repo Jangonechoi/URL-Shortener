@@ -98,11 +98,9 @@ curl "http://127.0.0.1:8000/stats/XVTbde"
 ```
 
 ## 테스트 코드  
-![image](https://github.com/user-attachments/assets/f5a3fdaf-cca8-41e3-8266-06a46b6cd846)  
-![image](https://github.com/user-attachments/assets/3962ff76-2d16-439c-bc53-1f2e79a480ba)
-리디렉션된 단축url 접속 후 카운트 1 증가  
-![image](https://github.com/user-attachments/assets/8b738f21-96c5-4375-9fc6-7221c65fa9bd)
 
+  tests 폴더에 포함
+  ![image](https://github.com/user-attachments/assets/c73dcf47-69e0-4c30-82c2-bc39f89972bc)
 
 
 
